@@ -18,16 +18,16 @@ Które z następujących zadań wymagają w Twojej opinii inteligencji od człow
 ## Zadanie 2
 Które z następujących problemów można uznać za mieszczące się w zakresie sztucznej
 inteligencji:
-• streszczanie tekstu,
-• tłumaczenie tekstu,
-• klasyfikacja tekstu do kategorii tematycznych,
-• odpowiadanie na proste pytania zadawane w języku naturalnym,
-• rozwiązywanie układów równań,
-• układanie rozkładu jazdy,
-• rozwiązywanie układów równań liniowych,
-• symboliczne obliczanie pochodnych,
-• symboliczne całkowanie,
-• kierowanie samochodem.
+* streszczanie tekstu,
+* tłumaczenie tekstu,
+* klasyfikacja tekstu do kategorii tematycznych,
+* odpowiadanie na proste pytania zadawane w języku naturalnym,
+* rozwiązywanie układów równań,
+* układanie rozkładu jazdy,
+* rozwiązywanie układów równań liniowych,
+* symboliczne obliczanie pochodnych,
+* symboliczne całkowanie,
+* kierowanie samochodem.
 ## Zadanie 3
 Które z poniższych rodzajów komunikacyjnego zachowania człowieka mogą być
 obecnie skutecznie imitowane przez sztuczne systemy (odpowiednio oprogramowane
